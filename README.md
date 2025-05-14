@@ -6,9 +6,9 @@ Delete Applications in IQ Server with latest scan older than given data.
 # Edit Configuration in deleteApps.py :
 IQ_SERVER_URL - Replace with your IQ Server URL
 
-IQ_USERNAME - Replace with your username
+USERNAME - Replace with your username
 
-IQ_PASSWORD - Replace with your password
+PASSWORD - Replace with your password
 
 CUTOFF_DATE_STR - Replace 
 

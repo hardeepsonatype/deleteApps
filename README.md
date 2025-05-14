@@ -1,5 +1,5 @@
 # expiredWaiverDeletion
-Delete Applications in IQ Server with latest scan older than given data
+Delete Applications in IQ Server with latest scan older than given data.
 WARNING - Deleting an application is a destructive action that will permanently remove the application and all data associated with it. Please proceed with caution when deleting applications in bulk. 
 
 # Edit Configuration in repositoryWaivers.py :

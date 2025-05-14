@@ -3,7 +3,7 @@ Delete Applications in IQ Server with latest scan older than given data.
 
 # WARNING - Deleting an application is a destructive action that will permanently remove the application and all data associated with it. Please proceed with caution when deleting applications in bulk. 
 
-# Edit Configuration in repositoryWaivers.py :
+# Edit Configuration in deleteApps.py :
 IQ_SERVER_URL - Replace with your IQ Server URL
 
 IQ_USERNAME - Replace with your username
